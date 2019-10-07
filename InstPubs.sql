@@ -8,6 +8,8 @@
 
 --Esta es una prueba para comprobar el funcionamiento de git
 
+--Otra prueba más para git
+
 SET NOCOUNT ON
 GO
 
