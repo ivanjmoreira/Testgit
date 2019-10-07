@@ -6,6 +6,8 @@
 ** All Rights Reserved.
 */
 
+--Esta es una prueba para comprobar el funcionamiento de git
+
 SET NOCOUNT ON
 GO
 
